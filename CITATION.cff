@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Pomaranzi"
+  given-names: "Giulia"
+  orcid: "https://orcid.org/0000-0003-4068-1077"
+- family-names: "Lenti"
+  given-names: "Matteo"
+title: "FEM_CableCar"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2025-02-28
+url: "https://github.com/gpomaranzi/FEM_CableCar"
